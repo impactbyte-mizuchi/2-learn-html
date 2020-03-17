@@ -1,0 +1,34 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1,
+p {
+  color: blue;
+  font-family: monospace;
+}
+
+ol li {
+  background-color: green;
+  font-family: 'Raleway', sans-serif;
+}
+
+.order-list li {
+  list-style: georgian;
+}
+
+#unorder-list li {
+  list-style: square;
+}
+
+#color-red {
+  color: red;
+}
+
+.background-brown {
+    background: brown;
+}
+
+.font-large {
+    font-size: 40px;
+}
